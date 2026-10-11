@@ -134,11 +134,6 @@ My focus isn't just on making something work — I aim to build applications tha
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheRaj200/TheRaj200/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
 
 ---
 
